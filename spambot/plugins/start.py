@@ -4,9 +4,9 @@ from telethon import events, Button
 
 
 data  = [
-    Button.url("🌱 sᴜᴘᴘᴏʀᴛ 🌱", url="t.me/synaxchatgroup"),
-    Button.url("🍂 ᴏᴡɴᴇʀ 🍂", url="t.me/Coder_s4nax"),
-    Button.url("🌷 ᴜᴘᴅᴀᴛᴇ 🌷", url="t.me/synaxnetwork")
+    Button.url("sᴜᴘᴘᴏʀᴛ", url="t.me/synaxchatgroup"),
+    Button.url("ᴏᴡɴᴇʀ", url="t.me/Coder_s4nax"),
+    Button.url("ᴜᴘᴅᴀᴛᴇ", url="t.me/synaxnetwork")
 ]
 
 
